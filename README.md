@@ -1,7 +1,7 @@
 # multidexor
 Simple interface for collections of indexor indexes
 
-##usage
+## usage
 ```js
 var Multidex = require('multidexor')
 
