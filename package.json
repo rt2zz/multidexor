@@ -1,6 +1,6 @@
 {
   "name": "multidexor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple interface for collections of indexor indexes",
   "main": "index.js",
   "dependencies": {
