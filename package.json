@@ -1,0 +1,26 @@
+{
+  "name": "multidexor",
+  "version": "1.0.0",
+  "description": "Simple interface for collections of indexor indexes",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rt2zz/multidexor.git"
+  },
+  "keywords": [
+    "cursor",
+    "index",
+    "paging"
+  ],
+  "author": "rt2zz <zack@root-two.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rt2zz/multidexor/issues"
+  },
+  "homepage": "https://github.com/rt2zz/multidexor"
+}
